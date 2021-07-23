@@ -12,7 +12,7 @@ Profile Page
 ![](screenshots/ProfilePage1.png)
 
 Study Models
-![](screenshots/StudyModels.png)
+![](screenshots/StudyModels1.png)
 
 3D view
 ![](screenshots/3dview1.png)
