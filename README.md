@@ -6,16 +6,25 @@ Case Study is a social networking and medical education platform for medical stu
 ## Screenshots
 
 Home Page
-![](screenshots/Homepage.png)
+![](screenshots/Homepage1.png)
 
 Profile Page
-![](screenshots/ProfilePage.png)
+![](screenshots/ProfilePage1.png)
 
-Register Page
-![](screenshots/Registerpage.png)
+Study Models
+![](screenshots/StudyModels.png)
+
+3D view
+![](screenshots/3dview1.png)
+
+AR view
+![](screenshots/Arview1.png)
 
 Login Page
-![](screenshots/Loginpage.png)
+![](screenshots/Loginpage1.png)
+
+Register Page
+![](screenshots/Registerpage1.png)
   
 ## Tech Stack
 
