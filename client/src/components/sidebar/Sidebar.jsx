@@ -13,6 +13,12 @@ export default function Sidebar() {
                       <span className="list-item-text">Daily Cases</span>
                   </li>
                 </Link>
+                <Link to="/"  style={{textDecoration:"inherit",color:"inherit"}}>
+                  <li className="list-item">
+                      <i className="list-item-icon fas fa-search"></i>
+                      <span className="list-item-text">Find Users</span>
+                  </li>
+                </Link>
                 <Link to="/study" style={{textDecoration:"inherit",color:"inherit"}}>
                   <li className="list-item">
                       <i className="list-item-icon fas fa-book-reader"></i>
